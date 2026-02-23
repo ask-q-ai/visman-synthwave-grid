@@ -1,0 +1,15 @@
+{
+  "id": "synthwave-grid",
+  "name": "Synthwave Grid",
+  "description": "Exported from embedded Flutter VisMan demo scene \"synthwave-grid\".",
+  "tags": [
+    "grid",
+    "synthwave"
+  ],
+  "source": "flutter-embedded-demo",
+  "generatedAt": "2026-02-23T08:11:45.557246Z",
+  "sceneFile": "visman.json",
+  "objectCount": 10,
+  "hasPhysics": true,
+  "has3D": false
+}
